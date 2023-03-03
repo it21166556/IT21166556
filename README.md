@@ -7,4 +7,4 @@
     
 </div>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/K77lWFobBeX5xcLsdp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+![](http://i.imgur.com/OUkLi.gif)
