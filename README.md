@@ -7,4 +7,4 @@
     
 </div>
 
-![](https://giphy.com/embed/XHAv3GveJMXMXSumkO" width="436" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>)
+![](https://giphy.com/embed/XHAv3GveJMXMXSumkO)
