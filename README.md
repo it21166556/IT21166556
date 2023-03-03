@@ -7,8 +7,5 @@
     
 </div>
 
-![]([https://giphy.com/embed/XHAv3GveJMXMXSumkO](https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif))
-
-![](http://i.imgur.com/60bts.gif)
-
+![](https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif)
 
