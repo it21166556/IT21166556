@@ -6,12 +6,6 @@
 <div id="about-me" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=0014FF&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Nipuna+Nadeeshan;It's+nice+to+meet+you!;I+am+a+full+stack+web+and+app+developer." alt="Typing SVG" /></a>
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Chrome Home Redesigned for Programmers ❤️" src="https://codepen.io/rahul-sahni/embed/YzOWmYy?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/rahul-sahni/pen/YzOWmYy">
-  Chrome Home Redesigned for Programmers ❤️</a> by Developer Rahul (<a href="https://codepen.io/rahul-sahni">@rahul-sahni</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
-
 </div>
 
 
