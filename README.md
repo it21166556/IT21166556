@@ -7,7 +7,7 @@
 
 </div>
 
-
+<center>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_neo___n.n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nipuna-nadeeshan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Neo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Nadeeshan_NN) 
 
@@ -26,6 +26,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nipuna-nadeeshan&icon=0&color=0)](https://visitcount.itsvg.in)
+</center>
 
 
 
